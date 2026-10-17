@@ -1,7 +1,7 @@
 ## My Certificates
 
 ### Data Analytics Essentials
-![Data Analytics Essentials](Data%20Analytics%20Essentials.png)
+![Data Analytics Essentials](./Data%20Analytics%20Essentials)
 
 ### Power BI
 ![Power BI Certificate](Power-BI-certificate.png)
